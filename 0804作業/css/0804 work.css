@@ -1,0 +1,69 @@
+body{
+	margin: 0 auto;
+	height: 100%;
+}
+
+#wrapper{
+	min-height: 100%;
+	margin-bottom: -100px; 
+}
+#banner{
+	height: 160px;
+	width: 100%;
+
+
+}
+#logo{
+	width:10%;
+	height:70PX;
+	margin-left: 3%;
+	
+}
+#logo{
+	float: left;
+}
+
+#logo img{
+	width: 100%;
+}
+
+#twitter{
+	float: right;
+	margin-right: 1em;
+}
+#twitter img{
+	width: 40%;
+}
+
+
+#Instagram{
+	float: right;
+	margin-right: 1em;
+}
+#Instagram img{
+	width: 40%;
+}
+
+#Facebook{
+	float: right;
+	margin-right: 1em;
+}
+#Facebook img{
+	width: 60%;
+}
+#content{
+	border:3px solid #cccccc;  
+	width:100%;
+	min-height:300PX; 
+}
+.aie{
+	width:20%;
+	height:200PX;
+	float: left;
+	padding: 10px;
+	margin: 20px;
+}
+.aie img{
+	width: 100%;
+	height: 100%;
+}
