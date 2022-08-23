@@ -1,0 +1,124 @@
+#banner{
+       width: 100%;
+       height: 70px;
+}
+#logo{
+    float: left;
+    margin-left: 2em;
+}
+#logo img{
+    width: 100%;
+    height: 70px
+}
+#fb{
+    float: right;
+    margin-right: 1em;
+}
+#fb img{
+    width: 100%;
+}
+#ig{
+    float: right;
+}
+#ig img{
+    width: 50%;
+    height: 20px
+    margin-right: 1em;
+}
+#menu{
+       width: 100%;
+       height: 50px;
+       background-color: #00ffab;
+}
+#menu ul{
+    margin-left: 18%;
+    color: #ffffff;
+    padding-top: 10px;
+    font-size: 22px;
+}
+#menu li{
+    list-style:none ;
+    float: left; 
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+
+#content{
+    width: 100%;
+    min-height: 300px;
+    height: 900px;
+}
+#left{
+    width: 55%;
+    float: left;
+    /*background-color: #ccc;*/
+    min-height: 400px;
+}
+#lefttop{
+    width: 100%;
+    height: 50%;
+    margin-left: 10%;
+    margin-top: 5%;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    float: left;
+    /*background-color: #ffff00;*/
+}
+#lefttop li{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+#leftdown{
+    width: 75%;
+    height: 350px;
+    /*background-color: #00ffff;*/
+    margin-left: 10%;
+    border-right: 1px solid #ccc;
+    float: left;
+}
+#leftdown img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-top: 2%;
+}
+#leftdown li{
+    font-size: 20px;
+    margin-left: 70%;
+    margin-top: 5%;
+}
+
+#right{
+    width: 45%;
+    float: left;
+    /*background-color: #ff0000;*/
+    min-height: 400px;
+}
+#right img{
+    width: 450px;
+    height: 300px;
+}
+#right p{
+    font-weight: bold; 
+    font-size: 23px;
+    text-align: center;
+
+}
+
+
+#footer{
+
+    clear: both;
+    width: 100%;
+    height: 50px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align:center ;
+}
+
+#footer span{
+    font-size: 30px;
+}
